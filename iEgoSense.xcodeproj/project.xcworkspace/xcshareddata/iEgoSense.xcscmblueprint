@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B6A86FFDE0DC56507B5B77B43D5E33A8EC765D22",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4C4CDE6A1988CEAD96E070A1349223DFA3B3C4A8" : 0,
+    "B6A86FFDE0DC56507B5B77B43D5E33A8EC765D22" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3848EA7B-49E1-42BE-9B44-B836F147810D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4C4CDE6A1988CEAD96E070A1349223DFA3B3C4A8" : "",
+    "B6A86FFDE0DC56507B5B77B43D5E33A8EC765D22" : "iEgoSense\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iEgoSense",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iEgoSense.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yukinak\/EgoVidSum.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C4CDE6A1988CEAD96E070A1349223DFA3B3C4A8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yukinak\/iEgoSense.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B6A86FFDE0DC56507B5B77B43D5E33A8EC765D22"
+    }
+  ]
+}
